@@ -2,7 +2,7 @@
 
 <img width="1920" height="1008" alt="Screenshot 2025-11-23 111634" src="https://github.com/user-attachments/assets/49ccbf75-a31f-4765-8803-d2233ab26418" />
 <img width="1920" height="1008" alt="Screenshot 2025-11-23 111700" src="https://github.com/user-attachments/assets/808f757d-61e4-49b2-a28c-c7dc447e422b" />
-<img width="1920" height="1008" alt="Screenshot 2025-11-23 111700" src="https://github.com/user-attachments/assets/7beb4de1-f189-43f9-bc3f-6614c51d2092" />
+<img width="1920" height="1008" alt="Screenshot 2025-11-23 111706" src="https://github.com/user-attachments/assets/09be4461-32bc-4f6e-8145-4615efea1209" />
 
 ## Steps to Run
 
