@@ -1,0 +1,1 @@
+In there project the same volume is used for nginx container and app container and the default configuration path from /usr/share/nginx/html changed to /var/www/html
