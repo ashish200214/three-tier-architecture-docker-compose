@@ -1,0 +1,39 @@
+services:
+  web:
+    image: nginx
+    ports:
+      - "80:80"
+    networks:
+      - frontend
+    volumes:
+      - app:/var/www/html
+      - nginx.conf:/etc/nginx/conf.d/
+
+  myapp:
+    image: php:8.2-fpm
+    networks:
+      - frontend
+      - backend
+    volumes:
+      - app:/var/www/html
+
+  db:
+    image: mysql:8
+    ports:
+      - "3306:3306"
+    networks:
+      - backend
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: mydb
+    volumes:
+      - db-volume:/var/lib/mysql
+
+networks:
+  frontend:
+  backend:
+
+volumes:
+  app:
+  db-volume:
+  nginx.conf:
