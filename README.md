@@ -1,5 +1,5 @@
 # 3-Tier Nginx + PHP-FPM + MySQL 
-<img width="1920" height="1008" alt="Screenshot 2025-11-23 103536" src="https://github.com/user-attachments/assets/5d87f73f-4f2b-49a9-8ffd-196bc6b86e1e" />
+<img width="1920" height="1008" alt="Screenshot 2025-11-23 103320" src="https://github.com/user-attachments/assets/e36b7faf-3263-4b21-825b-714655cf4000" />
 <img width="1920" height="1008" alt="Screenshot 2025-11-23 111634" src="https://github.com/user-attachments/assets/49ccbf75-a31f-4765-8803-d2233ab26418" />
 <img width="1920" height="1008" alt="Screenshot 2025-11-23 111700" src="https://github.com/user-attachments/assets/808f757d-61e4-49b2-a28c-c7dc447e422b" />
 <img width="1920" height="1008" alt="Screenshot 2025-11-23 111706" src="https://github.com/user-attachments/assets/09be4461-32bc-4f6e-8145-4615efea1209" />
